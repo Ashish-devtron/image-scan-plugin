@@ -4,8 +4,8 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"fmt"
+	"github.com/Ashish-devtron/image-scan-plugin/util"
 	"github.com/caarlos0/env"
-	"github.com/devtron-labs/ci-runner/util"
 	"github.com/go-resty/resty/v2"
 	"log"
 )
