@@ -1,4 +1,4 @@
-module github.com/image-scan-plugin
+module github.com/Ashish-devtron/image-scan-plugin
 
 go 1.20
 
